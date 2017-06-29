@@ -11,9 +11,9 @@
 
 ```
 
-My name is: Janise
+My name is: Chris
 
-I like to: do archery
+I like to: Play Football
 
 I'm learning: web dev
 
